@@ -1,0 +1,15 @@
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net6.0\GeneriskaKlasser.exe
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net6.0\GeneriskaKlasser.deps.json
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net6.0\GeneriskaKlasser.runtimeconfig.json
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net6.0\GeneriskaKlasser.dll
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\bin\Debug\net6.0\GeneriskaKlasser.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.csproj.AssemblyReference.cache
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.AssemblyInfoInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.AssemblyInfo.cs
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.csproj.CoreCompileInputs.cache
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.dll
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\refint\GeneriskaKlasser.dll
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.pdb
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\GeneriskaKlasser.genruntimeconfig.cache
+C:\Users\allinggard.vincent\Desktop\Programering\GeneriskaKlasser\GeneriskaKlasser\obj\Debug\net6.0\ref\GeneriskaKlasser.dll
